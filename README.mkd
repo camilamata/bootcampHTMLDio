@@ -1,10 +1,14 @@
-# Conceitos Básicos: HTML
+# Westeros em HTML
 
 Com os conhecimentos que adquiri no Bootcamp de HTML da Dio e inspirada nas Crônicas de Gelo e Fogo, desenvolvi:
 
-- Uma página com um breve resumo da Casa Lannister
+- Uma página com um breve resumo da Casa Lannister:
     - [lannister.html](https://github.com/camilamata/bootcampHTMLDio/blob/main/lannister.html)
 - Um formulário para você cadastrar a sua Casa de Westeros!
     - [index.html](https://github.com/camilamata/bootcampHTMLDio/blob/main/index.html) 
+- Uma tabela com alguns personagens da Casa Lannister incluindo: nome, títulos e como morreram:
+  - [characters.html](https://github.com/camilamata/bootcampHTMLDio/blob/main/characters.html)
 
-- Os textos foram retirados de: https://gameofthrones.fandom.com/pt-br/wiki/Casa_Lannister 
+- O código foi desenvolvido em inglês e os textos foram retirados da [Wiki of Ice and Fire]( https://awoiaf.westeros.org/index.php/House_Lannister#Quotes)
+
+- Para conferir o resultado, basta forkar o respositório, clonar na sua máquina e com a extensão Live Server do VSCode, você pode visualizar as páginas do seu host local.
