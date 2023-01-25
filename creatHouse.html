@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create you House</title>
+</head>
+<body>
+    <a href="lannister.html" target="_self">Return</a>
+    <form name="createHouse" autocomplete="on" method="post" >
+        <label> House Name: </label><input type="text" name="name"> <br />
+        <label> Coat of Arms: </label><input type="text" name="coat"> <br />
+        <label> Origin: </label><input type="text" name="origin"> <br />
+        <label> Foundation Year </label><input type="number" min="100" max="4000"><br />
+        <label>Colors:</label><input type="color" name="flagColor"> <br /> 
+        <label>Possetions</label> <br /> 
+        <input type="checkbox" name="optional[]" id="navios"> Ships
+        <input type="checkbox" name="optional[]" id="soldiers"> Soldiers
+        <input type="checkbox" name="optional[]" id="castles"> Castles
+        <input type="checkbox" name="optional[]" id="treasure"> Treasures <br /> 
+        <label>Partaken in the Last War for the Iron Throne?</label> <br>
+         <input type="radio" name="" value="yes"> Yes
+         <input type="radio" name="" value="no"> No <br>
+
+        <label>Tell us a brief history of you House:</label> <br>
+        <textarea name="newHistory" id="" cols="30" rows="10"></textarea><br>
+    <button type="reset">Reset</button>
+     <button type="submit">Create your house!</button>
+    </form>
+</body>
+</html>
