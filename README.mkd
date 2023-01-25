@@ -1,8 +1,10 @@
-# Conceitos Básicos: HTML :lion:
+# Conceitos Básicos: HTML
 
 Com os conhecimentos que adquiri no Bootcamp de HTML da Dio e inspirada nas Crônicas de Gelo e Fogo, desenvolvi:
 
-- Uma página com um breve resumo da Casa Lannister 
+- Uma página com um breve resumo da Casa Lannister
     - [lannister.html](https://github.com/camilamata/bootcampHTMLDio/blob/main/lannister.html)
 - Um formulário para você cadastrar a sua Casa de Westeros!
     - [index.html](https://github.com/camilamata/bootcampHTMLDio/blob/main/index.html) 
+
+- Os textos foram retirados de: https://gameofthrones.fandom.com/pt-br/wiki/Casa_Lannister 
